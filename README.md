@@ -4,10 +4,6 @@
 
 ---
 
-![QuickFixSociety](https://yourimageurl.com/logo.png)
-
----
-
 ## 🌟 Introduction
 
 Welcome to *QuickFixSociety*! This README file provides essential information about our project, designed to unite local service providers with residents. Our platform aims to simplify the process of finding reliable local services for everyday needs.
