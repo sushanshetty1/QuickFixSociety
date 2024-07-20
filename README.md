@@ -35,10 +35,10 @@ Welcome to *QuickFixSociety*! This README file provides essential information ab
 
 ## 📸 Screenshots
 
-![Service Directory](https://yourimageurl.com/service-directory.png)
+![Service Directory](ScreenShots/Interphase.jpg)
 Service Provider Directory
 
-![Booking System](https://yourimageurl.com/booking-system.png)
+![Booking System](ScreenShots/Booking.jpg)
 Booking System
 
 ---
@@ -47,8 +47,6 @@ Booking System
 
 Thank you for exploring *QuickFixSociety*. We hope our platform makes it easier for you to find and connect with reliable local service providers.
 
-For any inquiries or support, please contact us at [support@quickfixsociety.com](mailto:support@quickfixsociety.com).
-
 ---
 
-![Footer](https://yourimageurl.com/footer.png)
+![Footer](ScreenShots/Footer.jpg)
