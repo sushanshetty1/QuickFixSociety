@@ -1,14 +1,6 @@
-Sure! Here's an enhanced version of the README for QuickFixSociety with the addition of a webpage for service providers:
-
----
-
 # *QuickFixSociety*
 
 ### First Year Internship Project
-
----
-
-![QuickFixSociety](./assets/logo.png)
 
 ---
 
@@ -53,8 +45,12 @@ Service Provider Directory
 Booking System
 
 ### Webpage for Service Providers
-![Service Provider Page](./screenshots/service-provider-page.png)
+![Service Provider Page](ScreenShots/service.jpg)
 Webpage for Service Providers
+
+### Approval System
+![Approval System](ScreenShots/rec.jpg)
+Approval System
 
 ---
 
@@ -62,17 +58,6 @@ Webpage for Service Providers
 
 Thank you for exploring *QuickFixSociety*. We hope our platform makes it easier for you to find and connect with reliable local service providers.
 
-For any inquiries or support, please contact us at [support@quickfixsociety.com](mailto:support@quickfixsociety.com).
-
 ---
 
-![Footer](./assets/footer.png)
-
----
-
-In this example:
-- Replace ./assets/logo.png with the path to your logo image.
-- Replace ./screenshots/service-directory.png, ./screenshots/booking-system.png, and ./screenshots/service-provider-page.png with the paths to your screenshots.
-- Replace ./assets/footer.png with the path to your footer image.
-
-Ensure that the paths are correct and relative to the location of your README file in the repository.
+![Footer](ScreenShots/Footer.jpg)
